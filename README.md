@@ -18,4 +18,4 @@ Data reference for graph 2 can be found [here](https://github.com/kimsngmin00/HW
 
 **Assignment instructions**
 
-[Click]https://github.com/mikeizbicki/cmc-csci040/tree/2021fall/hw_02) for HW02 instructions. 
+[Click](https://github.com/mikeizbicki/cmc-csci040/tree/2021fall/hw_02) for HW02 instructions. 
