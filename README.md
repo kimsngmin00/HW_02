@@ -12,7 +12,7 @@ Data reference for graph 1 can be found [here](https://catalog.data.gov/dataset/
 
 In this graph, I also used a citywide data of New York city from [Data.gov](https://www.data.gov/). It visualizes the mean scale New York State(NYS) Mathematics Tests scores of students in grade 8 by ethnicities - Asian, Black, Hispanic, and White. Although there are no drastic differences in scores between each race, we can observe and compare the mean NYS math test results between each ethnic groups. 
 
-Data reference for graph 2 can be found [here](https://github.com/kimsngmin00/HW_02/blob/main/NYC%20math%20scores%20by%20ethnicityjpg.png?raw=true).
+Data reference for graph 2 can be found [here](https://catalog.data.gov/dataset/2006-2011-nys-math-test-results-by-grade-boro-by-gender).
 
 ---
 
