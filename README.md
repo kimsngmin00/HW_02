@@ -7,7 +7,7 @@ In this graph, I used a citywide data of New York City from [Data.gov](https://w
 
 Data reference for graph 1 can be found [here](https://catalog.data.gov/dataset/2006-2011-english-language-arts-ela-test-results-by-grade-citywide-all-students).
 
-## Graph 2: Mean scale NYS Math Test Scores of Grade 11 Students by Ethnicity
+## Graph 2: Mean scale NYS Math Test Scores of Grade 8 Students by Ethnicity
 ![bar graph NYS math](https://github.com/kimsngmin00/HW_02/blob/main/NYC%20math%20scores%20by%20ethnicityjpg.png?raw=true)
 
 In this graph, I also used a citywide data of New York city from [Data.gov](https://www.data.gov/). It visualizes the mean scale New York State(NYS) Mathematics Tests scores of students in grade 8 by ethnicities - Asian, Black, Hispanic, and White. Although there are no drastic differences in scores between each race, we can observe and compare the mean NYS math test results between each ethnic groups. 
